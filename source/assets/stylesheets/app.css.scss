@@ -34,19 +34,19 @@ body {
   }
 }
 
-#lattice{
+#lattice {
   height: 100vh;
   background: repeating-linear-gradient(
   45deg,
   white 0,
-  white 1px,
-  transparent 1px,
-  transparent 150px,
+  white 0.5px,
+  transparent 0.5px,
+  transparent 200px,
   ), repeating-linear-gradient(
   -45deg,
   white 0,
-  white 1px,
-  transparent 1px,
-  transparent 150px
+  white 0.5px,
+  transparent 0.5px,
+  transparent 200px
   );
 }
