@@ -59,4 +59,8 @@ body {
   backdrop-filter: blur(3px);
   // box-shadow: rgb(147, 153, 159);
   box-shadow: 0 3px 15px rgba(147, 153, 159, 0.2);
+  h1 {
+    color: white;
+    font-weight: bolder;
+  }
 }
