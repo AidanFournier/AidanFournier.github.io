@@ -81,12 +81,25 @@ body {
   min-height: 300px;
   z-index: 5;
   position: relative;
+  // border-bottom: 8px solid rgb(187, 212, 249);
 }
 
-// .my-picture {
-//   background-image: image_url('https://res.cloudinary.com/diyvlobep/image/upload/c_scale,q_100,w_377/v1631964015/IMG_6052_nferlr.jpg');
-//   // // background-size: contain;
-//   // height: 400px;
-//   // background-repeat: no-repeat;
-//   // background-position: center;
-// }
+.about-me {
+  color: $gray;
+}
+
+.title-underline {
+    border-bottom: 8px solid rgb(187, 212, 249);
+    // padding-right: 80px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+.my-picture {
+  box-shadow: 0 3px 15px rgba(255, 255, 255, 0.4);
+}
+
+.divider {
+  border-bottom: 1px solid rgb(187, 212, 249);
+  margin: 50px 20px 50px 20px;
+}

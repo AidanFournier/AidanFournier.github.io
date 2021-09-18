@@ -1,4 +1,15 @@
-- name: Some product
+- name: Justice
+  description: Evidence-collecting app for victims of abuse. Document incidents, create police reports in Japanese, connect with other users who have the same abuser.
   image: some_product.png
-- name: Other product
-  image: other_product.png
+  url: https://www.wearejustice.life/
+  tags:
+- name: CampQ
+  description: Marketplace app for renting or lending camping gear.
+  image: some_product.png
+  url: https://campq.herokuapp.com/
+  tags:
+- name: WatchList
+  description: Create lists of your favourite movies and share them with your friends.
+  image: some_product.png
+  url: https://watchit-watchlist.herokuapp.com/
+  tags:
