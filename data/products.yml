@@ -1,15 +1,36 @@
 - name: Justice
   description: Evidence-collecting app for victims of abuse. Document incidents, create police reports in Japanese, connect with other users who have the same abuser.
-  image: some_product.png
+  image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028033/Justice-img-1_x08dse.png
   url: https://www.wearejustice.life/
   tags:
+    - devicon-rails-plain
+    - devicon-html5-plain
+    - devicon-javascript-plain
+    - devicon-bootstrap-plain
+    - devicon-postgresql-plain
+    - devicon-redis-plain
+    - devicon-heroku-plain
+    - devicon-figma-plain
 - name: CampQ
   description: Marketplace app for renting or lending camping gear.
-  image: some_product.png
+  image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028280/CampQ-img-1_pdmsvh.png
   url: https://campq.herokuapp.com/
   tags:
+    - devicon-rails-plain
+    - devicon-html5-plain
+    - devicon-javascript-plain
+    - devicon-bootstrap-plain
+    - devicon-postgresql-plain
+    - devicon-redis-plain
+    - devicon-heroku-plain
+    - devicon-figma-plain
 - name: WatchList
   description: Create lists of your favourite movies and share them with your friends.
-  image: some_product.png
+  image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028283/WatchList-img-1_bty1qh.png
   url: https://watchit-watchlist.herokuapp.com/
   tags:
+    - devicon-rails-plain
+    - devicon-html5-plain
+    - devicon-javascript-plain
+    - devicon-bootstrap-plain
+    - devicon-heroku-plain

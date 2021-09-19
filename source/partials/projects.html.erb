@@ -1,0 +1,33 @@
+<div class="d-flex justify-content-center">
+  <h1 class="title-underline">Web Projects</h1>
+</div>
+
+<div class="row align-items-center justify-content-center">
+
+
+      <% data.products.each do |product| %>
+        <div class="card-pictures col-sm-12 col-md-6 justify-content-center align-items-center">
+          <img class="project-image w-75" src="<%= image_path(product.image) %>">
+        </div>
+        <div class="card-description col-sm-12 col-md-6 justify-content-center align-items-center">
+          <h5><%= product.name %></h5>
+          <p><%= product.description %></p>
+        </div>
+      <% end %>
+
+    </div>
+
+
+</div>
+
+
+<!-- <div class="device device-macbook-pro device-spacegray">
+  <div class="device-frame">
+    <img class="device-content" src="src/img/bg-06.jpg">
+  </div>
+  <div class="device-stripe"></div>
+  <div class="device-header"></div>
+  <div class="device-sensors"></div>
+  <div class="device-btns"></div>
+  <div class="device-power"></div>
+</div> -->
