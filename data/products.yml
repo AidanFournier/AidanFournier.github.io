@@ -1,4 +1,5 @@
 - name: Justice
+  role: Front-End Developer
   description: Evidence-collecting app for victims of abuse. Document incidents, create police reports in Japanese, connect with other users who have the same abuser.
   image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028033/Justice-img-1_x08dse.png
   url: https://www.wearejustice.life/
@@ -10,8 +11,10 @@
     - devicon-postgresql-plain
     - devicon-redis-plain
     - devicon-heroku-plain
+    - devicon-github-original
     - devicon-figma-plain
 - name: CampQ
+  role: Project Manager
   description: Marketplace app for renting or lending camping gear.
   image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028280/CampQ-img-1_pdmsvh.png
   url: https://campq.herokuapp.com/
@@ -23,8 +26,10 @@
     - devicon-postgresql-plain
     - devicon-redis-plain
     - devicon-heroku-plain
+    - devicon-github-original
     - devicon-figma-plain
 - name: WatchList
+  role: Full-Stack Developer
   description: Create lists of your favourite movies and share them with your friends.
   image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028283/WatchList-img-1_bty1qh.png
   url: https://watchit-watchlist.herokuapp.com/
@@ -34,3 +39,4 @@
     - devicon-javascript-plain
     - devicon-bootstrap-plain
     - devicon-heroku-plain
+    - devicon-github-original
