@@ -5,3 +5,19 @@
   color: white;
   z-index: 3;
 }
+
+a {
+  text-decoration: none;
+}
+
+.site-button {
+  padding: 5px 20px;
+  color: $light-gray;
+  border: 1px solid $light-gray;
+}
+
+.github-button {
+  padding: 5px 20px;
+  color: $light-gray;
+  border: 1px solid $light-gray;
+}

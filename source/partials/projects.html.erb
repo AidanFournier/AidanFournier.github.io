@@ -17,6 +17,18 @@
               <span><i class="<%= tag %>"></i></span>
             <% end %>
           </div>
+          <div class="d-flex pt-3 justify-content-between">
+            <div class="mr-3">
+            <% link_to product.url, class: 'site-button', target: '_blank' do %>
+              <i class="fas fa-external-link-square-alt pr-2"></i><span>View code</span>
+            <% end %>
+            </div>
+            <div>
+            <% link_to product.github, class: 'github-button', target: '_blank' do %>
+              <i class="fab fa-github-square pr-2"></i><span>View site</span>
+            <% end %>
+            </div>
+          </div>
         </div>
       <% end %>
 

@@ -3,6 +3,7 @@
   description: Evidence-collecting app for victims of abuse. Document incidents, create police reports in Japanese, connect with other users who have the same abuser.
   image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028033/Justice-img-1_x08dse.png
   url: https://www.wearejustice.life/
+  github: https://github.com/AidanFournier/justice
   tags:
     - devicon-rails-plain
     - devicon-html5-plain
@@ -18,6 +19,7 @@
   description: Marketplace app for renting or lending camping gear.
   image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028280/CampQ-img-1_pdmsvh.png
   url: https://campq.herokuapp.com/
+  github: https://github.com/AidanFournier/CampQ
   tags:
     - devicon-rails-plain
     - devicon-html5-plain
@@ -33,6 +35,7 @@
   description: Create lists of your favourite movies and share them with your friends.
   image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028283/WatchList-img-1_bty1qh.png
   url: https://watchit-watchlist.herokuapp.com/
+  github: https://github.com/AidanFournier/rails-watch-list
   tags:
     - devicon-rails-plain
     - devicon-html5-plain
