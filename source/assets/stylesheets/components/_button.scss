@@ -21,3 +21,14 @@ a {
   color: $light-gray;
   border: 1px solid $light-gray;
 }
+
+.contact-icons {
+  font-size: 32px;
+  a {
+    text-decoration: none;
+    color: $light-gray;
+    :hover {
+      color: $light-blue;
+    }
+  }
+}
