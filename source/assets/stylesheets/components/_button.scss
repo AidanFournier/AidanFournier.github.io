@@ -10,6 +10,19 @@ a {
   text-decoration: none;
 }
 
+.button-resume {
+  font-size: 20px;
+  padding: 5px 35px;
+  border: 1px solid $gray;
+}
+
+.resume-hover {
+  :hover {
+    background-color: $gray;
+    color: white;
+  }
+}
+
 .site-button {
   padding: 5px 20px;
   color: $light-gray;
@@ -22,11 +35,27 @@ a {
   border: 1px solid $light-gray;
 }
 
+.button-square-site {
+  :hover {
+    text-decoration: none;
+    color: $gray;
+    background-color: $light-blue;
+  }
+}
+
+.button-square-github {
+  :hover {
+    text-decoration: none;
+    color: $gray;
+    background-color: $light-purple;
+  }
+}
+
 .contact-icons {
-  font-size: 32px;
+  font-size: 44px;
   a {
     text-decoration: none;
-    color: $light-gray;
+    color: $gray;
     :hover {
       color: $light-blue;
     }
