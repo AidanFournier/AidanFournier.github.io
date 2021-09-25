@@ -1,7 +1,7 @@
 - name: Justice
   role: Front-End Developer
   description: Evidence-collecting app for victims of abuse. Document incidents, create police reports in Japanese, connect with other users who have the same abuser.
-  image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028033/Justice-img-1_x08dse.png
+  image: https://res.cloudinary.com/diyvlobep/image/upload/c_scale,w_600/v1632571834/Multiples_with_info_2_stbeji.png
   url: https://www.wearejustice.life/
   github: https://github.com/AidanFournier/justice
   tags:
@@ -17,7 +17,7 @@
 - name: CampQ
   role: Project Manager
   description: Marketplace app for renting or lending camping gear.
-  image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028280/CampQ-img-1_pdmsvh.png
+  image: https://res.cloudinary.com/diyvlobep/image/upload/v1632573615/CampQ_Mockup_2_d1ityo.png
   url: https://campq.herokuapp.com/
   github: https://github.com/AidanFournier/CampQ
   tags:
@@ -33,7 +33,7 @@
 - name: WatchList
   role: Full-Stack Developer
   description: Create lists of your favourite movies and share them with your friends.
-  image: https://res.cloudinary.com/diyvlobep/image/upload/v1632028283/WatchList-img-1_bty1qh.png
+  image: https://res.cloudinary.com/diyvlobep/image/upload/v1632574512/WatchList_Mockup_gcbpgy.png
   url: https://watchit-watchlist.herokuapp.com/
   github: https://github.com/AidanFournier/rails-watch-list
   tags:
