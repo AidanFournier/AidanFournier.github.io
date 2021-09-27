@@ -99,7 +99,17 @@ body {
 
 .my-picture {
   box-shadow: 0 3px 15px rgba(255, 255, 255, 0.4);
+  border-right: 16px solid $light-blue;
+  border-bottom: 16px solid $light-blue;
+  padding-right: 20px;
+  padding-bottom: 20px;
 }
+
+// .picture-frame {
+//   background-color: $light-blue;
+//   width: 100%;
+//   height: auto;
+// }
 
 .divider {
   border-bottom: 1px solid rgb(187, 212, 249);
