@@ -1,6 +1,7 @@
 - name: Justice
   role: Front-End Developer
-  description: Evidence-collecting app for victims of abuse. Document incidents, create police reports in Japanese, connect with other users who have the same abuser.
+  description: Evidence-collecting app for victims of abuse. Users can document incidents, generate police reports in Japanese, and connect with other users who have the same abuser using facial-recogntion technology.
+    As the lead Front-End Developer for this project, I had to think about how to design the app with mobile-first function in mind. I challenged myself by learning how to use Stimulus.js and create wiireframes on Figma.
   image: https://res.cloudinary.com/diyvlobep/image/upload/c_scale,w_600/v1632571834/Multiples_with_info_2_stbeji.png
   url: https://www.wearejustice.life/
   github: https://github.com/AidanFournier/justice
@@ -16,7 +17,7 @@
     - devicon-figma-plain
 - name: CampQ
   role: Project Manager
-  description: Marketplace app for renting or lending camping gear.
+  description: A marketplace app for renting or lending camping gear. My team built this MVC app in two weeks. We used the Cloudinary and Mapbox APIs as well as the JS plugin Flatpickr. As the Project Manager, I learned invaluable skills in organizing my team and communicating with them using platforms such as Slack, Trello, and Github.
   image: https://res.cloudinary.com/diyvlobep/image/upload/v1632573615/CampQ_Mockup_2_d1ityo.png
   url: https://campq.herokuapp.com/
   github: https://github.com/AidanFournier/CampQ
@@ -32,7 +33,7 @@
     - devicon-figma-plain
 - name: WatchList
   role: Full-Stack Developer
-  description: Create lists of your favourite movies and share them with your friends.
+  description: Create lists of your favourite movies and share them with your friends. This project taught me how to host my site on Heroku and host images on Cloudinary.
   image: https://res.cloudinary.com/diyvlobep/image/upload/v1632574512/WatchList_Mockup_gcbpgy.png
   url: https://watchit-watchlist.herokuapp.com/
   github: https://github.com/AidanFournier/rails-watch-list
