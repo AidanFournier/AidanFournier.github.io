@@ -9,6 +9,7 @@ gem 'rubocop'
 
 gem 'font-awesome-sass', '~> 5.13.0'
 gem 'dotenv-rails', groups: [:development, :test]
+gem 'middleman-metaman'
 
 group :test do
   gem 'capybara'
