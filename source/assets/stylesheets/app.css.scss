@@ -54,6 +54,7 @@ body {
 
 .landing-page {
   z-index: 1;
+  position: fixed;
 }
 
 .background {
@@ -96,7 +97,7 @@ body {
   min-height: 300px;
   z-index: 5;
   position: relative;
-  // border-bottom: 8px solid rgb(187, 212, 249);
+  margin-top: 100vh;
 }
 
 .about-me {
@@ -117,12 +118,6 @@ body {
   padding-right: 20px;
   padding-bottom: 20px;
 }
-
-// .picture-frame {
-//   background-color: $light-blue;
-//   width: 100%;
-//   height: auto;
-// }
 
 .divider {
   border-bottom: 1px solid rgb(187, 212, 249);
