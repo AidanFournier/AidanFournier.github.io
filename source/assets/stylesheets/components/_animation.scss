@@ -1,0 +1,36 @@
+.animate__big-pulse {
+  animation-name: big-pulse;
+  animation-timing-function: ease-in-out;
+}
+
+.animate__animated.animate__big-pulse {
+  --animate-delay: 0s;
+}
+
+@keyframes big-pulse {
+  from {
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    transform: scale3d(1.5, 1.5, 1.5);
+  }
+
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.animate__slideInLeft {
+  animation-name: slideInLeft;
+  animation-timing-function: ease-in-out;
+  animation: slide-in 0.7s forwards;
+}
+
+.animate__animated.animate__slideInLeft {
+  --animate-delay: 0s;
+}
+
+@keyframes slideInLeft {
+  100% { transform: translateX(0%); }
+}
