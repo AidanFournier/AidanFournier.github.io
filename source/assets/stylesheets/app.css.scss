@@ -66,6 +66,16 @@ header {
   }
 }
 
+.underline-big {
+  height: 8px;
+  width: 80%;
+  background-color: rgb(187, 212, 249);
+  z-index: 8;
+  margin-bottom: 20px;
+  animation-name: slideInRight;
+  transform: translateX(0%);
+}
+
 .chevron {
   display: flex;
   justify-content: center;

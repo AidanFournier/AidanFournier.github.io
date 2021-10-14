@@ -34,3 +34,18 @@
 @keyframes slideInLeft {
   100% { transform: translateX(0%); }
 }
+
+.animate__slideInRight {
+  animation-name: slideInRight;
+  animation-timing-function: ease-in-out;
+  animation: slide-in 0.7s forwards;
+  // animation-direction: reverse;
+}
+
+.animate__animated.animate__slideInRight {
+  --animate-delay: 0s;
+}
+
+@keyframes slideInRight {
+  0% { transform: translateX(100%); }
+}
