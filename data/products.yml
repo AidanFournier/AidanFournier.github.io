@@ -1,7 +1,8 @@
 - name: Justice
   role: Front-End Developer
-  description: Evidence-collecting app for victims of abuse. Users can document incidents, generate police reports in Japanese, and connect with other users who have the same abuser using facial-recogntion technology.
-    As the lead Front-End Developer for this project, I had to think about how to design the app with mobile-first function in mind. I challenged myself by learning how to use Stimulus.js and create wiireframes on Figma.
+  description:
+    Evidence-collecting app for victims of abuse. Users can document incidents, generate police reports in Japanese, and connect with other users who have the same abuser using facial-recogntion technology.
+    As the lead Front-End Developer for this project, I had to think about how to design the app with mobile-first function in mind. I challenged myself by learning how to use Stimulus.js and create wireframes on Figma.
   image: https://res.cloudinary.com/diyvlobep/image/upload/c_scale,w_600/v1632571834/Multiples_with_info_2_stbeji.png
   url: https://www.wearejustice.life/
   github: https://github.com/AidanFournier/justice
