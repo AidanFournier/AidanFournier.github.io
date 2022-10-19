@@ -9,6 +9,7 @@
   tags:
     - devicon-rails-plain
     - devicon-html5-plain
+    - devicon-sass-original
     - devicon-javascript-plain
     - devicon-bootstrap-plain
     - devicon-postgresql-plain
@@ -25,11 +26,25 @@
   tags:
     - devicon-rails-plain
     - devicon-html5-plain
+    - devicon-sass-original
     - devicon-javascript-plain
     - devicon-bootstrap-plain
     - devicon-postgresql-plain
     - devicon-redis-plain
     - devicon-heroku-plain
+    - devicon-github-original
+    - devicon-figma-plain
+- name: NookPhone
+  role: Full-Stack Developer
+  description: This mobile-first application provides gameplay support for Animal Crossing New Horizons. This is my first independent project built with React.js. Along with using hooks for State and Effect, I challenged myself by using a library called Axios to support the API calls in the app.
+  image: https://res.cloudinary.com/diyvlobep/image/upload/v1666187107/Vertical_-_Double_dofj2y.png
+  url: https://acnh-nookphone.com/
+  github: https://github.com/AidanFournier/acnh-nook-phone
+  tags:
+    - devicon-react-original
+    - devicon-javascript-plain
+    - devicon-html5-plain
+    - devicon-sass-original
     - devicon-github-original
     - devicon-figma-plain
 - name: WatchList
