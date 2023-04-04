@@ -1,3 +1,10 @@
+## My (old) portfolio
+
+<img width="492" alt="Screen Shot 2021-10-11 at 8 47 30 PM" src="https://user-images.githubusercontent.com/78288118/229689486-9bde15cd-1325-4f05-8162-7d3fefabca57.png">
+
+## Introduction
+This is the first iteration of my profession portfolio site, built with Middleman. It has since been replaced by [this](https://github.com/AidanFournier/react-portfolio-site)!
+
 # Middleman Boilerplate
 A simple way to build static pages with a Rails feel.
 
